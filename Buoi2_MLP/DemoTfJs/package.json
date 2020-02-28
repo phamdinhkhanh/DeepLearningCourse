@@ -1,0 +1,29 @@
+{
+  "name": "DLCourse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html --out-dir build/index.html --target node --bundle-node-modules --public-url ./",
+    "watch": "parcel watch index.html --out-dir watch/index.html --target node --bundle-node-modules --public-url ./",
+    "simple": "parcel index.html --bundle-node-modules"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "1.5.1",
+    "@tensorflow/tfjs-node": "1.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}

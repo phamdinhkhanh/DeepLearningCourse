@@ -1,0 +1,14 @@
+Buoi2_MLP/DemoTfJs/node_modules
+Buoi2_MLP/DemoTfJs/.cache
+Buoi2_MLP/DemoTfJs/yarn-error.log
+Buoi2_MLP/DemoTfJs/tfjs-model
+ Buoi2_MLP/DemoTfJs/yarn.lock
+Buoi2_MLP/DemoTfJs/build
+Buoi2_MLP/DemoTfJs/watch
+Buoi2_MLP/DemoTfJs/dist
+Buoi2_MLP/all_ckp
+Buoi2_MLP/save_best
+Buoi2_MLP/Git
+Buoi2_MLP/logs
+Buoi2_MLP/.ipynb_checkpoints
+Buoi2_MLP/early_stop_model.h5
